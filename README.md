@@ -6,10 +6,8 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [Assignement](https://codesandbox.io/s/910mk5k9qy)
+
 
 ### Modules
 #### `modulename.js`
